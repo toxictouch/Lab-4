@@ -1,0 +1,9 @@
+C:\Users\Toxic\Desktop\Class Work\Spring 2018\.Net Applications\Lab 4\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+C:\Users\Toxic\Desktop\Class Work\Spring 2018\.Net Applications\Lab 4\Lab4\Lab4\bin\Lab4.dll.config
+C:\Users\Toxic\Desktop\Class Work\Spring 2018\.Net Applications\Lab 4\Lab4\Lab4\bin\Lab4.dll
+C:\Users\Toxic\Desktop\Class Work\Spring 2018\.Net Applications\Lab 4\Lab4\Lab4\bin\Lab4.pdb
+C:\Users\Toxic\Desktop\Class Work\Spring 2018\.Net Applications\Lab 4\Lab4\Lab4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Toxic\Desktop\Class Work\Spring 2018\.Net Applications\Lab 4\Lab4\Lab4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Toxic\Desktop\Class Work\Spring 2018\.Net Applications\Lab 4\Lab4\Lab4\obj\Debug\Lab4.dll
+C:\Users\Toxic\Desktop\Class Work\Spring 2018\.Net Applications\Lab 4\Lab4\Lab4\obj\Debug\Lab4.pdb
+C:\Users\Toxic\Desktop\Class Work\Spring 2018\.Net Applications\Lab 4\Lab4\Lab4\obj\Debug\Lab4.csprojResolveAssemblyReference.cache
